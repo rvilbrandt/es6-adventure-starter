@@ -1,7 +1,5 @@
 // Import stylesheets
 import "./style.css";
-import rooms from "./rooms";
-import verbindungen from "./verbindungen";
 
 // Write Javascript code!
 var app = document.getElementById("app");
